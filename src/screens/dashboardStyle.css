@@ -7,14 +7,14 @@
 
 
       .mi-cabeza{
-    margin-left: 205px;
+    margin-left: -35px;
     width: 150px;
     text-align: center; 
     }
 
     .mi-torso{
     width: 260px;
-    margin-left: 150px;
+    margin-left: -80px;
     text-align: center; 
     }
     .mi-pierna{
@@ -22,7 +22,7 @@
     z-index: 1px;
     margin-top: -49px;
     text-align: center; 
-    margin-left: 205px;
+    margin-left: -25px;
     }
     
     .mi-div{
@@ -45,4 +45,6 @@
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         text-align: center;
     }
+
+
 
