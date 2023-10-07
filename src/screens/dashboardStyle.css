@@ -1,0 +1,45 @@
+
+    div{
+    margin-top: 60px;
+    width: 20px;
+    margin-left: 700px;
+    }
+
+
+    .mi-cabeza{
+    margin-left: 75px;
+    width: 150px;
+    }
+
+    .mi-torso{
+    width: 260px;
+    margin-left: 20px;
+    }
+    .mi-pierna{
+    margin-left: 75px;
+    width: 150px;
+    z-index: 1px;
+    margin-top: -49px;
+    }
+    
+    .mi-div{
+     width: 10px;
+    text-align: center; 
+    }
+
+    h3{
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center; 
+    font-size: 40px;
+    color: aliceblue;
+    }  
+
+    .mi-container{
+    text-align: center;
+    }
+    p{
+        color: aliceblue;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+    }
+

@@ -1,0 +1,2 @@
+  Divtorso.setAttribute("src",appState.torso);
+            Divpiernas.setAttribute("src",appState.piernas);
