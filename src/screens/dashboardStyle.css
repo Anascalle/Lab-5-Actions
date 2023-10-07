@@ -6,20 +6,23 @@
     }
 
 
-    .mi-cabeza{
-    margin-left: 75px;
+      .mi-cabeza{
+    margin-left: 205px;
     width: 150px;
+    text-align: center; 
     }
 
     .mi-torso{
     width: 260px;
-    margin-left: 20px;
+    margin-left: 150px;
+    text-align: center; 
     }
     .mi-pierna{
-    margin-left: 75px;
     width: 150px;
     z-index: 1px;
     margin-top: -49px;
+    text-align: center; 
+    margin-left: 205px;
     }
     
     .mi-div{
